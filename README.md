@@ -5,3 +5,5 @@ I'm practicing GitHub workflow:
 - commits
 - push
 - pull requests
+
+Learning Git step by step.
